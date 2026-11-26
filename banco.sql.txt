@@ -1,0 +1,10 @@
+create database if not exists bd_cadastro;
+use bd_cadastro;
+
+create table tb_cadastro
+(
+id_cad int primary key auto_increment,
+nome varchar(50),
+idade int,
+cidade varchar(50)
+)

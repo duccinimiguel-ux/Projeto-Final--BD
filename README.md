@@ -1,3 +1,3 @@
 Time: Vasco Paulista/
-Tema: Time de futebol Vasco da Gama/
+Tema: Club de Regatas Vasco da Gama/
 Equipe: Miguel Duccini e Vitor Pontes
